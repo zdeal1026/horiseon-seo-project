@@ -1,9 +1,33 @@
-# horiseon-seo-project
+# Horiseon-seo-project
 SEO Site Optimization Excersize
 
-This excersize focused on code refactoring. We cloned the git repository to our local computer. Once the repository had been cloned we had access to the project. 
+# Purpose
+This excersize focused on code refactoring. We were given a source code and asked to declutter and organize it while making sure the links operated correctly. 
 
-First off I tackled the html file. It didn't have a clean structure or the use of proper html elements. This project focused on changing structure not content. The first thing I did was add a title. Then I focused on adding the correct structure (body, main, article, and footer) throughout the file. The file was riddled with the div tag but I was able to finish and only use one instance of div. I moved the background image from the .css file to the html file because I thought since I was adding alt elements all images should be on the same file. I then changed some of the classes around. The file created different classes for things that could be used under the same time. For instance, in the firs"t section I changed the class from each article to "services" which would apply changes to all three articles under one class. I did the same for the following section article and changed the class to "leader". While I was doing this I noticed that the id for the jump down links needed to be fixed. There were qoutations around part of the id and not the whole thing so the file wouldnt recognize the place to jump to on the page. 
+# Acceptance Criteria
+1. Webpage meets accessibility standards.
+2. The structure contains semantic HTML elements.
+3. The source code follows a logical structure.
+4. Images have alt attributes.
+5. Heading attributes fall in sequential order.
+6. The title element is concise and descriptive. 
 
-I was finally able to move to the css file and it was very cluttered. Before changing anything, I reorganized the data so that it would flow with the html sheet. Then I started condense the css file and attaching it to the classes I created on the html file. For instance, the class of search-engine-optimization, online-reputation-management, and social-media-marketing was changed to one class on the html file (services)  which let me condense 9 categories into 3. I'm not sure if it was on the root file or if I had accidently added them, but I had to remove several periods as well. There was alot of jumping back and forth on this part!!
+# Corrective Actions
+1. Application links corrected and function properly.
+2. HTML corrected to follow semantic structure.
+3. CSS selectors and properties organized and consolidated.
+4. Comments added to CSS file.
+
+
+# -- Notes --
+Sometimes code refactoring is like spring cleaning.... The code gets a whole lot worse before it gets better and the best thing to do is to jump right in!!! The key is to pick a starting point and stick with it. 
+
+
+
+
+<img src="./assets/images/Horiseon Home.png"/>
+
+
+<strong>Link:</strong>
+https://zdeal1026.github.io/horiseon-seo-project/
 

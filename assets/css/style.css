@@ -17,6 +17,8 @@ p {
     font-size: 16px;
 }
 
+/*header and clickable links*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,8 @@ header nav li {
     margin-left: 25px;
 }
 
+/*background image*/
+
 .hero {
     margin-bottom: 25px;
 }
@@ -61,6 +65,8 @@ header nav li {
     background-size: auto;
     background-position: center;
 }
+
+/*search engine optimization, online reputation managment, and social media marketing*/
 
 .content {
     width: 75%;
@@ -99,6 +105,7 @@ header nav li {
     margin-left: 25px;
 }
 
+/* lead generation, brand awareness, and cost managment*/
 
 .benefits {
     margin-right: 20px;
@@ -128,6 +135,8 @@ header nav li {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*footer*/
 
 footer {
     padding: 30px;
