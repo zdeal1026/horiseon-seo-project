@@ -20,6 +20,10 @@ a:hover {
     color: #2a607c;
 }
 
+a:hover, a:active, a:focus {
+    outline:none;
+}
+
 p {
     font-size: 16px;
 }
@@ -38,8 +42,11 @@ header h1 {
     font-size: 48px;
 }
 
+/* hover underline removed */
+
 .seo {
     color: #d9dcd6;
+    text-decoration: none;
 }
 
 header nav {
