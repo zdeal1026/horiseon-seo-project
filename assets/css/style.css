@@ -13,6 +13,13 @@ a {
     text-decoration: none;
 }
 
+/* gave link hover state*/
+
+a:hover {
+    background-color: white;
+    color: #2a607c;
+}
+
 p {
     font-size: 16px;
 }
